@@ -1,0 +1,189 @@
+body {
+	max-width: 100%;
+	margin: 0 auto;
+}
+
+.sitelogo {
+	float: left;
+	padding-top: 50px;
+	color: white;
+	font-size: 25px;
+}
+
+.menu-list {
+	float: right;
+	padding-top: 50px;
+	color: white;
+}
+
+.header-top {
+	background-image: url(../images/bg-topheader.jpg);
+	width: 100%;
+	height: 100%;
+}
+
+.header-h2 {
+	padding-top: 130px;
+	color: white;
+	text-align: center;
+	font-size: 70px;
+
+}
+
+.header-paragraf {
+	color: white;
+	text-align: center;
+	font-size: 25px;
+
+}
+
+.hereus {
+	margin-top: 67px;
+	margin-bottom: 180px;
+	float: right;
+	background-color: #f7600e;
+	color: white;
+	width: 210px;
+	height: 50px;
+	border-style: none;
+	border-width: 1px;
+	border-radius: 15px;
+
+}
+
+.ourworks {
+	margin-top: 67px;
+	margin-bottom: 180px;
+	float: left;
+	background-color: #3f444a;
+	color: white;
+	width: 210px;
+	height: 50px;
+	border-radius: 15px;
+	border:1px solid white;
+}
+.service {
+	padding-top: 140px;
+	padding-bottom: 100px;
+}
+
+.service img {
+	width: 100%;
+}
+.service h2 {
+	text-align: center;
+	font-size: 18px;
+}
+.service p {
+	text-align: center;
+	font-size: 14px;
+}
+
+.subscript {
+	width: 100%;
+	height: 100%;
+	background-image: url(../images/bg-sub.jpg);
+	background-repeat: no-repeat;
+
+}
+
+.sub-serch {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.sub-serch input {
+	margin-left: 150px;
+	float: left;
+	margin-top: 105px;
+	margin-bottom: 105px;
+	width: 90%;
+	height: 50px;
+	border-style: none;
+	border-width: 1px;
+	border-radius: 15px;
+	padding-right: 20px;
+	padding-left: 10px;
+}
+
+.sub-submit {
+	margin-top: 105px;
+	margin-left: 70px;
+	background-color: #f7600e;
+	color: white;
+	width: 40%;
+	height: 50px;
+	border-style: none;
+	border-width: 1px;
+	border-radius: 15px;
+}
+
+.workpp1 {
+
+	margin-top: 30px;
+}
+.work-p1 h3 {
+	text-align: center;
+}
+
+.work-p1 p {
+	text-align: center;
+}
+
+.work-p2 {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.client {
+	background-image: url(../images/client-bg.jpg);
+	width: 100%;
+	height: 100%
+
+}
+
+.client img {
+
+	padding-left: 45%;
+	padding-top: 100px;
+}
+
+.client p {
+	padding-top: 15px;
+	text-align: center;
+	color: white;
+	font-size: 25px;
+	padding-bottom: 80px;
+}
+
+
+
+.our-team {
+	padding-top: 50px;
+	padding-bottom: 50px;
+	text-align: center;
+}
+.team {
+	text-align: center;
+	padding-bottom: 100px;
+}
+.marc {
+	width: 300px;
+	height: 300px;
+	padding: 15px;
+}
+
+.socialmedia {
+	width: 50px;
+	height: 50px;
+	padding: 15px;
+}
+
+.footer {
+	width: 100%;
+	height: 50px;
+	background-color:#3b434c;
+	text-align: center;
+	color: white;
+	padding: 10px;
+}
